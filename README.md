@@ -21,3 +21,5 @@ Desarrollar la competencia de elaborar la documentación de sistemas informátic
 ## Situación problemática
 
 El mantenimiento de los sistemas de muchas empresas demora más tiempo de lo esperado y de lo planificado, debido a que no se cuenta con la documentación necesaria y suficiente, generando atrasos en las operaciones, malestar en los usuarios internos y externos e incumplimiento de metas o de aspectos de índole legal.
+
+[Documentación de Sistemas: Etapas y Manuales](Documentación de Sistemas: Etapas y Manuales.pptx)
